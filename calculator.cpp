@@ -1,4 +1,5 @@
 // my first projectt
+//use oops concept
 #include <iostream>
 using namespace std;
 class calculator{
